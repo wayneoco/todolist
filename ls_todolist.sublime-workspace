@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"JERSE",
+				"JERSEY_COLOR"
+			],
+			[
+				"FA",
+				"FAHRENHEIT_TO_CENTIGRADE"
+			],
+			[
+				"displ",
+				"display_books"
+			],
+			[
+				"computer_make",
+				"computer_make_defensive_move"
+			],
+			[
+				"find_at",
+				"find_at_risk_square"
+			],
+			[
+				"find",
+				"find_winning_square"
+			],
+			[
+				"securi",
+				"security_log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"termin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"ter",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terin",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"teri",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus open",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"preferences: terminus key",
+				"Preferences: Terminus Key Bindings"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wayneolson/dev/launch_school/todolist"
+	],
+	"file_history":
+	[
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/wayneoco/ubud/post.hbs",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/medium/clock_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/medium/robot_name_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/medium/diamond_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/medium/robot_name.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/medium/diamond.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/series_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/series.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/beer_song_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/beer_song.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/multiples_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/multiples.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/octal.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/madlibs.txt",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/scratch.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/octal_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/perfect_number_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/perfect_number.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/scrabble_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/scrabble.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/anagrams_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/anagrams.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/roman_numerals_alt_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/roman_numerals_alt.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/roman_numerals_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/roman_numerals.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/point_mutations.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/point_mutations_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/triangles_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/challenges/easy/triangles.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/advanced_1/iterators.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/advanced_1/procs_lambdas_blocks.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/scratch.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/sample.txt",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/swap_letters_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/swap_letters.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/transaction_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/cash_register.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/transaction.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/cash_register_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_2/1.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/method_to_proc.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/pass_parameters_1.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/pass_parameters_2.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/pass_parameters_3.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/bubble_sort.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/text_analyzer.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/medium_1/listening.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_testing/easy_testing.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_testing/boolean_assertions.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_testing/equality.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_testing/nil.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/each_cons_01.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/each_cons_02.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/max_by.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/each_with_object.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/each_with_index.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/drop_while.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/count.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/map.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/zipper.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/count_items.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/cat.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/cat_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_2/sequence_generator.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/iterators_one.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/iterators_none.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/iterators_any.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/iterators_all.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/pioneers.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/divisors.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/find_missing_numbers.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/optional_blocks.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/exercises/easy_1/enumerable.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/todolist.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/todolist_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/coverage/index.html",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_01/reduce.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_01/todo.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/car_spec.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/car_test.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_02/car.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb130/lesson_01/select.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/exercises/rb101-rb109_small_problems/easy_4/10.convert_signed_number_to_string.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/deck.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/scratch.txt",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/quiz.rb",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/highest_lowest.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/stack_machine2.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/stack_machine.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/number_guesser1.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/number_guesser1_fe.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/circular.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/privacy.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/fixed_array.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/medium_1/students.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_21_ls.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_21.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/x.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_05/oo_ttt.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/exercises.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps_bonus.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/exercises/easy_2/pet_shelter.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/109prep.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rb120_lesson2_quiz.rb",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/00_rps_messages.yml",
+		"/Users/wayneolson/Library/Mobile Documents/com~apple~CloudDocs/dev/launchschool/rb120/lesson_02/rps_working.rb",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/RuboCop/RuboCop.sublime-settings",
+		"/Users/wayneolson/Library/Application Support/Sublime Text/Packages/User/RuboCop.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 10":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 2":
+	{
+		"height": 394.0
+	},
+	"output.Terminus 3":
+	{
+		"height": 237.0
+	},
+	"output.Terminus 4":
+	{
+		"height": 509.0
+	},
+	"output.Terminus 5":
+	{
+		"height": 416.0
+	},
+	"output.Terminus 6":
+	{
+		"height": 363.0
+	},
+	"output.Terminus 7":
+	{
+		"height": 263.0
+	},
+	"output.Terminus 8":
+	{
+		"height": 425.0
+	},
+	"output.Terminus 9":
+	{
+		"height": 395.0
+	},
+	"output.exec":
+	{
+		"height": 328.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ls_todolist.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"109prep.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 414.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
